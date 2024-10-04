@@ -81,5 +81,11 @@ footer {
         font-size: 1.2rem;
     }
 
-  
+    #album h2 {
+        font-size: 2rem;
+    }
+
+    #songs .list-group-item {
+        font-size: 1rem;
+    }
 }
